@@ -1,6 +1,6 @@
 function myFnc() {
   if (true) {
-    let a = 'oi';
+    let a = 'hi';
     console.log(a + ' gdg'); // oi gdg
   }
 
