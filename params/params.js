@@ -1,0 +1,3 @@
+function currency(value=0, currency='USD') {
+    // ...
+}
