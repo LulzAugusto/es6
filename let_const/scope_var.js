@@ -1,10 +1,10 @@
 function myFnc() {
   if (true) {
-    let a = 'hi';
+    var a = 'hi';
     console.log(a + ' gdg'); // hi gdg
   }
 
-  console.log(a); // a is not defined
+  console.log(a); // hi
 }
 
 myFnc();
